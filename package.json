@@ -19,14 +19,17 @@
     ],
     "offerings": [
       {
+        "guid": "b1372f51-8b9a-484d-a0db-b1b8284e0906",
         "price": "$1.99 USD",
         "title": "Snickers bar"
       },
       {
+        "guid": "58a9f0eb-3160-414a-8b74-82742674369c",
         "price": "$4.99 USD",
         "title": "Dark chocolate"
       },
       {
+        "guid": "8d690ef4-3e3f-4758-9050-ebbbcfc89a18",
         "price": "$24.99 USD",
         "title": "Bag of exotic apples"
       }
