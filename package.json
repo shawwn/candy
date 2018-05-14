@@ -16,6 +16,11 @@
     ],
     "offerings": [
       {
+        "guid": "0f2c59fd-418f-49b2-9ed0-0d82b5bab34c",
+        "price": "$0.01 USD",
+        "title": "Tootsie roll"
+      },
+      {
         "guid": "b1372f51-8b9a-484d-a0db-b1b8284e0906",
         "price": "$1.99 USD",
         "title": "Snickers bar"
